@@ -6,8 +6,12 @@
 3. TypeScript
 4. Deno 
 5. Angular / React / Vue
-6. VS Code Insiders
-7. Influencer Marketing & Hackathon Organization
+6. Ethereum Blockchain
+7. Arweave
+8. VS Code Insiders
+9. Influencer Marketing 
+10. Hackathon Organization
+11. Facilitating an ecosystem 
 
 
 ## Challenge Peer 2 Peer Enterprise
