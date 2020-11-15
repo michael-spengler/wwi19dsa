@@ -25,6 +25,7 @@
 
 ### Group 2: Fans for Fans
 
-Get rewarded for valuable content
-Inspirations: https://basicattentiontoken.org/ & https://onlyfans.com/
+Get rewarded for valuable content  
+Inspirations: https://basicattentiontoken.org/ & https://onlyfans.com/    
+combine it with betting on future likes - professionalizing evaluation
 
