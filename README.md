@@ -14,8 +14,17 @@
 11. Facilitating an ecosystem 
 
 
-## Challenge Peer 2 Peer Enterprise
+## Web App Development Proposals
+
+### Group 1: Peer 2 Peer Enterprise
 
 1. http://peer2peer-enterprise.org  
 2. http://peer2peer-people.org  
 3. http://peer2peer-tasks.org  
+
+
+### Group 2: Fans for Fans
+
+Get rewarded for valuable content
+Inspirations: https://basicattentiontoken.org/ & https://onlyfans.com/
+
