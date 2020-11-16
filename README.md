@@ -29,3 +29,8 @@ Get rewarded for valuable content
 Inspirations: https://basicattentiontoken.org/ & https://onlyfans.com/    
 combine it with betting on future likes - professionalizing evaluation
 
+
+## Telegram Group
+[WWI19DSA Web Entwicklung](https://t.me/joinchat/CocyExMkogESIzc0mg2XFg)
+
+
