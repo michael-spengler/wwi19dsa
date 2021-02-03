@@ -5,7 +5,7 @@
 | Teilnehmer | Link zum Repository | Präsentationstermin | Note |
 |----------------------|----------|----------|----------|
 | max mustermann, mandy musterfrau | | | |
-| Lukas Benner, Ayman Madhour, Lukas Bach, Georgious Paschaloglou, Nico Heller, Marie Krieger |[Tracer](https://github.com/michael-spengler/Tracer-wwi19dsa) | |1,0 :D |
+| Lukas Benner, Ayman Madhour, Lukas Bach, Georgious Paschaloglou, Nico Heller, Marie Krieger |[Tracer](https://github.com/michael-spengler/Tracer-wwi19dsa) | |? :D |
 
 ## Skills / Technologies / Keywords
 1. Value Proposition Canvas
