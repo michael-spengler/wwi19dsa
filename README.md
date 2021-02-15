@@ -6,6 +6,7 @@
 |----------------------|----------|----------|----------|
 | max mustermann, mandy musterfrau | | | |
 | Lukas Benner, Ayman Madhour, Lukas Bach, Georgious Paschaloglou, Nico Heller, Marie Krieger |[Tracer](https://github.com/michael-spengler/Tracer-wwi19dsa) | |? :D |
+| Bastian Berle, Ferdinand Muth, Ron Holzapfel, Jonas Wuttke, Tomke Blach, Fabian Heidger | [Price Predictor](https://github.com/michael-spengler/price-predictor-wwi19dsa) | 06.03.2021 / 18:00 Uhr |? :D |
 
 ## Skills / Technologies / Keywords
 1. Value Proposition Canvas
