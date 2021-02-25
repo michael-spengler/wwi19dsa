@@ -5,7 +5,7 @@
 | Teilnehmer | Link zum Repository | Präsentationstermin | Note |
 |----------------------|----------|----------|----------|
 | max mustermann, mandy musterfrau | | | |
-| Lukas Benner, Ayman Madhour, Lukas Bach, Georgious Paschaloglou, Nico Heller, Marie Krieger |[Tracer](https://github.com/michael-spengler/Tracer-wwi19dsa) | | 1.0 |
+| Lukas Benner, Ayman Madhour, Lukas Bach, Georgious Paschaloglou, Nico Heller, Marie Krieger |[Tracer](https://github.com/michael-spengler/Tracer-wwi19dsa) | 25.02.2021 / 17:00 Uhr | 1.0 |
 | Bastian Berle, Ferdinand Muth, Ron Holzapfel, Jonas Wuttke, Tomke Blach, Fabian Heidger | [Price Predictor](https://github.com/michael-spengler/price-predictor-wwi19dsa) | 02.03.2021 / 19:00 Uhr |? :D |
 | Alexander Beutler, Andre Pereira Goncalves, Benedikt Göller, Fabian Creutz, Jonah Jäger, Lennart Schulz, Marcel Winter, Marius Kiskemper, Marvin Vielmeyer, Oliver Wieder, Tim Wildberger | [Peer2Peer](https://github.com/michael-spengler/peer2peer-wwi19dsa) | 26.02.2021 / 17:30 Uhr |? :D |
 
