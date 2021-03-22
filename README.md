@@ -16,7 +16,7 @@
 | Marius Kiskemper | [Peer2Peer](https://github.com/michael-spengler/peer2peer-wwi19dsa) | 26.02.2021 / 17:30 Uhr | 1,4 |
 | Marvin Vielmeyer | [Peer2Peer](https://github.com/michael-spengler/peer2peer-wwi19dsa) | 26.02.2021 / 17:30 Uhr | 1,5 |
 | Oliver Wieder | [Peer2Peer](https://github.com/michael-spengler/peer2peer-wwi19dsa) | 26.02.2021 / 17:30 Uhr | 1,5 |
-| Tim Wildberger | [Peer2Peer](https://github.com/michael-spengler/peer2peer-wwi19dsa) | 26.02.2021 / 17:30 Uhr | ? |
+| Tim Wildberger | [Peer2Peer](https://github.com/michael-spengler/peer2peer-wwi19dsa) | 26.02.2021 / 17:30 Uhr | 1,6 |
 | Lukas Benner | [Tracer](https://github.com/michael-spengler/Tracer-wwi19dsa) | 25.02.2021 / 17:00 Uhr | 1.0 | 
 | Ayman Madhour | [Tracer](https://github.com/michael-spengler/Tracer-wwi19dsa) | 25.02.2021 / 17:00 Uhr | 1.0 |
 | Lukas Bach | [Tracer](https://github.com/michael-spengler/Tracer-wwi19dsa) | 25.02.2021 / 17:00 Uhr | 1.0 |
